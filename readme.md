@@ -1,7 +1,6 @@
 Introduction
 -------------
-
-The starter code for the semester project implements the basic language interpreter for a language we will call Plot Script (plotscript) in less than 700 lines of code. It also includes unit and integration tests for the base implementation, as well as a driver program implementing a read-eval-print loop. These pages define the base language and document its implementation. **You will need to read and understand this code in order to be able to modify it.**
+My Junior year C++ project, devoid of all commit logs..I didn't know git well back then.
 
 Plot Script Overview
 ---------------------
